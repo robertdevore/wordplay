@@ -1,6 +1,6 @@
 # WordPlay - Putting the FUN in dysFUNctional 🎉
 
-**WordPlay** is a free WordPress® plugin that lets you display a random WordPress® meme from an included set of XX images. 
+**WordPlay** is a free WordPress® plugin that lets you display a random WordPress® meme from an included set of 21 images. 
 
 Whether on the front-end using widgets or shortcodes, or on the dashboard with a custom widget, WordPlay brings a little randomness and joy to your website that just so happens to be powered by WordPress®.
 
@@ -65,7 +65,7 @@ Whether on the front-end using widgets or shortcodes, or on the dashboard with a
 
 ## Customization ✏️
 
-Currently, the plugin comes with a set of XXX memes included in the `public/assets/img/` folder. You can replace these images with your own to customize the memes displayed by the plugin. Just make sure they use one of the supported formats (`.jpg`, `.jpeg`, `.png`, `.gif`, `.webp`).
+Currently, the plugin comes with a set of 21 memes included in the `public/assets/img/` folder. You can replace these images with your own to customize the memes displayed by the plugin. Just make sure they use one of the supported formats (`.jpg`, `.jpeg`, `.png`, `.gif`, `.webp`).
 
 ### Changing Images:
 
