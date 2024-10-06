@@ -1,6 +1,6 @@
 # WordPlay - Putting the FUN in dysFUNctional 🎉
 
-**WordPlay** is a free WordPress® plugin that lets you display a random WordPress® meme from an included set of 21 images. 
+**WordPlay** is a free WordPress® plugin that lets you display a random WordPress® meme from an included set of 24 images. 
 
 Whether on the front-end using widgets or shortcodes, or on the dashboard with a custom widget, WordPlay brings a little randomness and joy to your website that just so happens to be powered by WordPress®.
 
@@ -65,7 +65,7 @@ Whether on the front-end using widgets or shortcodes, or on the dashboard with a
 
 ## Customization ✏️
 
-Currently, the plugin comes with a set of 21 memes included in the `public/assets/img/` folder. You can replace these images with your own to customize the memes displayed by the plugin. Just make sure they use one of the supported formats (`.jpg`, `.jpeg`, `.png`, `.gif`, `.webp`).
+Currently, the plugin comes with a set of 24 memes included in the `public/assets/img/` folder. You can replace these images with your own to customize the memes displayed by the plugin. Just make sure they use one of the supported formats (`.jpg`, `.jpeg`, `.png`, `.gif`, `.webp`).
 
 ### Changing Images:
 
@@ -116,13 +116,13 @@ We welcome contributions to enhance this plugin! Here's how you can contribute:
 6. Open a **Pull Request** to the `main` branch of the original repository.
 * * *
 
+## Contributors 😎
+
+Thank you to every contributor who has helped make WordPress® dashboard look better.
+
+* [@robertdevore](https://github.com/robertdevore)
+* [@cameronjonesweb](https://github.com/cameronjonesweb/)
+
 ## License 📜
 
 This project is licensed under the GPLv2 License. See the LICENSE file for details.
-
-* * *
-
-## Author 👤
-
-**[Robert DeVore](https://github.com/robertdevore)**
-WordPlay - Bringing random joy to WordPress® sites, one meme at a time 🤘
