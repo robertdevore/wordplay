@@ -118,7 +118,7 @@ We welcome contributions to enhance this plugin! Here's how you can contribute:
 
 ## Contributors 😎
 
-Thank you to every contributor who has helped make WordPress® dashboard look better.
+Thank you to every contributor who has helped make the world famous WordPress® dashboard look better.
 
 * [@robertdevore](https://github.com/robertdevore)
 * [@cameronjonesweb](https://github.com/cameronjonesweb/)
