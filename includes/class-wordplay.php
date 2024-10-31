@@ -67,11 +67,12 @@ class WordPlay {
 	 * @since    1.0.0
 	 */
 	public function __construct() {
+		$this->plugin_name = 'wordplay';
+        $this->version     = '1.0.1';
+
 		if ( defined( 'WORDPLAY_VERSION' ) ) {
-			$this->version = '1.0.0';
 			$this->version = WORDPLAY_VERSION;
 		}
-		$this->plugin_name = 'WordPlay';
 
 		$this->load_dependencies();
 		$this->set_locale();

@@ -16,13 +16,14 @@
  * Plugin Name:       WordPlay
  * Plugin URI:        https://robertdevore.com/say-hello-to-wordplay/
  * Description:       Putting the FUN back in dysFUNctional. Display memes about WordPress and it's post-economic owner in your dashboard, in a widget or via a shortcode.
- * Version:           1.0.0
+ * Version:           1.0.1
  * Author:            Robert DeVore
  * Author URI:        https://robertdevore.com/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       WordPlay
  * Domain Path:       /languages
+ * Update URI:        https://github.com/robertdevore/wordplay/
  */
 
 // If this file is called directly, abort.
@@ -33,7 +34,19 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * Current plugin version.
  */
-define( 'WORDPLAY_VERSION', '1.0.0' );
+define( 'WORDPLAY_VERSION', '1.0.1' );
+
+require 'plugin-update-checker/plugin-update-checker.php';
+use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
+
+$myUpdateChecker = PucFactory::buildUpdateChecker(
+	'https://github.com/robertdevore/wordplay/',
+	__FILE__,
+	'wordplay'
+);
+
+//Set the branch that contains the stable release.
+$myUpdateChecker->setBranch( 'main' );
 
 /**
  * The code that runs during plugin activation.
