@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       WordPlay
- * Plugin URI:        https://robertdevore.com/say-hello-to-wordplay/
+ * Plugin URI:        https://github.com/robertdevore/wordplay/
  * Description:       Putting the FUN back in dysFUNctional. Display memes about WordPress and it's post-economic owner in your dashboard, in a widget or via a shortcode.
  * Version:           1.0.1
  * Author:            Robert DeVore
