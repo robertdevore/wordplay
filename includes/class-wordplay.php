@@ -68,7 +68,7 @@ class WordPlay {
 	 */
 	public function __construct() {
 		$this->plugin_name = 'wordplay';
-        $this->version     = '1.0.1';
+        $this->version     = '1.0.2';
 
 		if ( defined( 'WORDPLAY_VERSION' ) ) {
 			$this->version = WORDPLAY_VERSION;

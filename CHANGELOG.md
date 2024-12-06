@@ -1,5 +1,9 @@
 # CHANGELOG.md
 
+## 1.0.2
+
+*   Added 6 new meme images in `public/img/`
+
 ## 1.0.1
 
 *   Added 2 new meme images in `public/img/`

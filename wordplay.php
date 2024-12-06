@@ -16,7 +16,7 @@
  * Plugin Name:       WordPlay
  * Plugin URI:        https://github.com/robertdevore/wordplay/
  * Description:       Putting the FUN back in dysFUNctional. Display memes about WordPress and it's post-economic owner in your dashboard, in a widget or via a shortcode.
- * Version:           1.0.1
+ * Version:           1.0.2
  * Author:            Robert DeVore
  * Author URI:        https://robertdevore.com/
  * License:           GPL-2.0+
@@ -34,7 +34,7 @@ if ( ! defined( 'WPINC' ) ) {
 /**
  * Current plugin version.
  */
-define( 'WORDPLAY_VERSION', '1.0.1' );
+define( 'WORDPLAY_VERSION', '1.0.2' );
 
 require 'plugin-update-checker/plugin-update-checker.php';
 use YahnisElsts\PluginUpdateChecker\v5\PucFactory;
